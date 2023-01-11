@@ -1,21 +1,7 @@
 # ElixirPlayground
 
-**TODO: Add description**
+Hexpm 이것저것 사용해보기
 
-## Installation
+## List
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_playground` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:elixir_playground, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/elixir_playground>.
-
+- Decorator : Module attributes ( @ )를 사용하여 함수의 내용을 추출가능한 기능.
